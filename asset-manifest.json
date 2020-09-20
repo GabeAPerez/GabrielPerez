@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gabrielperez/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gabrielperez/static/js/main.a0ca26de.chunk.js",
+    "main.js.map": "/gabrielperez/static/js/main.a0ca26de.chunk.js.map",
+    "runtime-main.js": "/gabrielperez/static/js/runtime-main.1bcef83e.js",
+    "runtime-main.js.map": "/gabrielperez/static/js/runtime-main.1bcef83e.js.map",
+    "static/js/2.e509c257.chunk.js": "/gabrielperez/static/js/2.e509c257.chunk.js",
+    "static/js/2.e509c257.chunk.js.map": "/gabrielperez/static/js/2.e509c257.chunk.js.map",
+    "index.html": "/gabrielperez/index.html",
+    "precache-manifest.6a3c9cafdad5599e832bf518cac8197c.js": "/gabrielperez/precache-manifest.6a3c9cafdad5599e832bf518cac8197c.js",
+    "service-worker.js": "/gabrielperez/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gabrielperez/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e509c257.chunk.js.LICENSE.txt": "/gabrielperez/static/js/2.e509c257.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bcef83e.js",
+    "static/js/2.e509c257.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a0ca26de.chunk.js"
+  ]
+}
